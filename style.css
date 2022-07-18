@@ -186,6 +186,9 @@ hr {
         grid-template-columns: repeat(2, 1fr);
         padding: 15px;
     }
+    .section-title {
+        padding-left: 30px;
+    }
 
     .blogs,
     .courses {
